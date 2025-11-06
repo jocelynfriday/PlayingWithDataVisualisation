@@ -3,4 +3,4 @@ Some code snippets to visualise data
 
 The following is created from the LolipopGraph_changeInStudentFeelings.R code. 
  <p>
-  <img src="references/ChangesInStudentOpinions.svg?sanitize=true"> 
+  <img src="references/ChangeInStudentOpinions.svg?sanitize=true"> 
